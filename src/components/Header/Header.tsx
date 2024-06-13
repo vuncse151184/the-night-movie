@@ -1,7 +1,6 @@
 import React from 'react';
 import { Layout, Menu } from 'antd';
 import { SearchOutlined } from '@ant-design/icons';
-import Logo from '../../assets/images/logo/logo_transparent.png';
 import './header.css'
 const items = [
     {
