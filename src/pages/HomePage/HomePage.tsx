@@ -1,8 +1,4 @@
-import React from 'react'
-
-interface Props { }
-
-function HomePage({ }: Props) {
+function HomePage() {
     return (
         <div>HomePage</div>
     )
